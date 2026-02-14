@@ -1,0 +1,9 @@
+input::placeholder {
+    color:#333;
+}
+form input {
+    padding: 10px 20px;
+    border: 1px solid #111;
+    border-radius: 7px;
+    box-shadow: 10px 10px 8px #888888;
+}
